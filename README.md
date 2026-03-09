@@ -1,4 +1,8 @@
 # AI GitHub Code Review Assistant
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![LLM](https://img.shields.io/badge/AI-DeepSeekCoder-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 An AI-powered backend tool that analyzes GitHub repositories and generates automated code review suggestions.
 
